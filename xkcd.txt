@@ -1,0 +1,9 @@
+Last Name : Oliver
+First Name : Megan
+User ID : xkcd
+Picture : http://www.explainxkcd.com/wiki/images/e/e5/Megan.png
+Website : http://xkcd.com/156/
+Website Description : xkcd: Commented
+Cliques : 
+SQL Programmers
+DrawnAndQuartered

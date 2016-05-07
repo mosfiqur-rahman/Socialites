@@ -1,0 +1,8 @@
+Last Name : Turing
+First Name : Alan
+User ID : at986
+Picture : http://www.whatibeproject.com/wp-content/uploads/2012/04/princeton-university.png
+Website : http://www.princeton.edu/main/
+Website Description : Princeton University.
+Cliques : 
+Princetonhackers

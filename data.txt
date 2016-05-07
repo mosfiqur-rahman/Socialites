@@ -1,0 +1,40 @@
+bz986
+Buzz
+Aldrin
+https://blog.digitalrealty.com/wp-content/uploads/sites/2/2014/08/mit-logo-1030x515.png
+http://web.mit.edu/
+Massachusetts Institute of Technology.
+MIThackers
+++++
+mr986
+Mosfiqur
+Rahman
+http://technical.ly/wp-content/uploads/2013/01/url.jpeg
+http://drexel.edu/
+Drexel University.
+Drexelhackers
+++++
+hc986
+Hillary
+Clinton
+https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2013/11/Yale_University_Logo.jpg
+http://www.yale.edu/
+Yale University.
+Yalehackers
+++++
+bo986
+Barack
+Obama
+http://media.www.harvard.edu/user13/harvard_shield_wreath.png
+http://www.harvard.edu/
+Harvard University.
+Harvardhackers
+++++
+at986
+Alan
+Turing
+http://www.whatibeproject.com/wp-content/uploads/2012/04/princeton-university.png
+http://www.princeton.edu/main/
+Princeton University.
+Princetonhackers
+++++
